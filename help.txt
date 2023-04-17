@@ -1,7 +1,0 @@
-To install the package run this in your terminal:
-pip install emoji
-To upgrade to the latest packages of emojis run this in your terminal:
-pip install emoji --upgrade
-
-here's a cheat code website where you can access all the shortcode for every emojis
-https://www.webfx.com/tools/emoji-cheat-sheet/
